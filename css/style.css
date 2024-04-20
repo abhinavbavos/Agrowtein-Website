@@ -6,6 +6,16 @@
     --dark: #091E3E;
 }
 
+@font-face {
+    font-family: Oswald;
+    src: url(../font/Oswald/Oswald-VariableFont_wght.ttf);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    font-family:'Oswald', 'sans-serif';
+    font-weight: 500;
+}
 
 /*** Spinner ***/
 .spinner {
